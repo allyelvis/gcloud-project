@@ -3,7 +3,9 @@ const app = express();
 const PORT = process.env.PORT || 8080;
 
 app.get('/', (req, res) => {
-  res.send('Welcome to Aenzbi Ecommerce!');
+  res.send('restaurant-management-system
+  cd restaurant-management-system
+  npm init -y come to Aenzbi Ecommerce!');
 });
 
 app.listen(PORT, () => {
